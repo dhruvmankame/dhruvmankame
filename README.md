@@ -92,10 +92,3 @@
 </div>
 
 ---
-
-## 💡 Focus Areas
-
-```txt
-Full Stack Development  |  MERN Stack  |  Machine Learning
-Python Development      |  Deep Learning  |  Django
-REST APIs               |  Database Design |  Scalable Applications
