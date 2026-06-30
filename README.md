@@ -6,9 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=dhruvmankame&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Python+%7C+MERN+%7C+Django;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Developer;MERN+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **NLP, GANs, Deep Learning**
 - 💬 Ask me about **MongoDB, React, Express, Node.js, Machine Learning, Django**
 - 📫 Reach me at **dhruvmankame3@gmail.com**
-- ⚡ Passionate about building useful, scalable, and intelligent applications
+- ⚡ I enjoy building scalable web apps and intelligent ML-based solutions
 
 ---
 
@@ -40,11 +40,27 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,django,flask,java,c,cpp,angular,vue,tailwind,git,github,docker,aws,firebase,linux,tensorflow,pytorch,sklearn&theme=dark" alt="Skills" />
-</p>
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,tailwind&theme=dark" alt="Frontend Skills" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,firebase&theme=dark" alt="Backend Skills" />
+
+### Programming & ML
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn&theme=dark" alt="Programming and ML Skills" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+## 📚 Data Science Libraries
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
@@ -57,46 +73,29 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvmankame&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvmankame&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhruv GitHub Stats" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmankame&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=dhruvmankame&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dhruvmankame&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvmankame&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvmankame&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-<div align="center">
+## 💡 Focus Areas
 
-### ✨ Thanks for visiting my profile!
-
-</div>
+```txt
+Full Stack Development  |  MERN Stack  |  Machine Learning
+Python Development      |  Deep Learning  |  Django
+REST APIs               |  Database Design |  Scalable Applications
