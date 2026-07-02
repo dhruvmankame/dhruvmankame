@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Dhruv Mankame
+# Hi 👋, I'm Dhruv
 
 ### MERN Stack Developer | Machine Learning Enthusiast | Python Developer
 
